@@ -4,14 +4,12 @@ import java.util.Scanner;
 
 public class ejercicio2 {
 
-    static String numComparison(int num1, int num2) {
-        if (num1 > num2) {
-            return "El numero mayor es " + num1;
-        }
+    static int numComparison(int num1, int num2) {
+        int numMayor = num1;
         if (num2 > num1) {
-            return "El numero mayor es " + num2;
+            numMayor = num2;
         }
-        return "Los numeros son iguales";
+        return numMayor;
     }
 
 
@@ -26,7 +24,12 @@ public class ejercicio2 {
         System.out.println("Escribe un segundo número");
         num2 = input.nextInt();
 
-        System.out.println(numComparison(num1, num2));
+        if (num1 == num2 ){
+            System.out.println("Los numeros son iguales");
+        }
+        else {
+            System.out.println("El numero mayor es: "+ numComparison(num1, num2));
+        }
 
     }
 }
