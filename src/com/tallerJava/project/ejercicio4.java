@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ejercicio4 {
 
     static double calculateIVA(double productPrice) {
-        int IVA = 21;
+        final int IVA = 21;
         double productIVA = ((productPrice * IVA) / 100);
         return productIVA;
     }
