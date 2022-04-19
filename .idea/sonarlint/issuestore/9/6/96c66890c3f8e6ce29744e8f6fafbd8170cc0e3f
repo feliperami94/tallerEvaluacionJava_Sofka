@@ -1,9 +1,0 @@
-
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€„’œþÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðúŽÇ
-G
-java:S1659	",Declare "bufferNoSpaces" on a separate line.(ä‹¾ôÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¤èÄø
-^
-java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ë€„Ž
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¡äÖ

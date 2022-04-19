@@ -1,6 +1,7 @@
 package com.tallerJava.project;
 
 import javax.swing.*;
+import java.util.Scanner;
 
 public class ejercicio14 {
 
@@ -12,8 +13,10 @@ public class ejercicio14 {
     }
 
     public static void main(String[] args) {
-        String inputString = JOptionPane.showInputDialog("Ingrese un numero entero menor que 1000");
-        int inputInteger = Integer.parseInt(inputString);
+        System.out.println("Ingrese un numero entero menor que 1000");
+        Scanner input = new Scanner(System.in);
+        String buffer = input.nextLine();
+        int inputInteger = Integer.parseInt(buffer);
 
         runUntilThousand(inputInteger);
     }
