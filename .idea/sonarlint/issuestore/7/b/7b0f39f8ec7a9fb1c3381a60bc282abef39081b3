@@ -1,0 +1,8 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ûâÏ¸
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀƒÀÌûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğúÇ
+?
+java:S1172"*Remove this unused method parameter "num".(ÃÉæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²äØşÿÿÿÿ
