@@ -38,6 +38,7 @@ public class ejercicio11 {
         System.out.println("Ingrese una frase para operar");
         buffer = input.nextLine().toLowerCase(Locale.ROOT);
         phraseSize = buffer.length();
+        System.out.println("La frase tiene " + phraseSize + " caracteres incluyendo espacios y signos de puntuación");
         countingVowels = countVowels(buffer);
         System.out.println(countingVowels);
         }
