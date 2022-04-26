@@ -1,0 +1,21 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îæ”ª
+@
+java:S5411"*Use the primitive boolean expression here.(¾İ”
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ùùÒÔùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğúÇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§ÈæÄ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹îª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÛÂÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çæ‡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘ßÖ›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·»ªìüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ ‰„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â…¨÷
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ôÓªÎÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ìØéÉÿÿÿÿÿ
+p
+java:S1128"URemove this unused import 'com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer'.(ùùÒÔùÿÿÿÿ

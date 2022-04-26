@@ -1,12 +1,12 @@
 package com.tallerJava.project.ejercicio16;
 
 public class Persona {
-    private final char hombre = 'H';
+    private final char HOMBRE = 'H';
 
     private String nombre = "";
     private short edad = 0;
     private String DNI;
-    private Character sexo = hombre;
+    private Character sexo = HOMBRE;
     private double peso = 0.0;
     private double altura = 0.0;
 

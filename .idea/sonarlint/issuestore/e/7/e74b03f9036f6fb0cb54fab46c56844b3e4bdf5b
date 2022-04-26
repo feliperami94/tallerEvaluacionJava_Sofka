@@ -1,0 +1,13 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ²û
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğúÇ
+<	java:S131""Add a default case to this switch.(îÇËúÿÿÿÿ
+N
+java:S1659!"3Declare "currentCharacterCount" on a separate line.(êÄÚºşÿÿÿÿ
+U
+java:S1481!":Remove this unused "currentCharacterCount" local variable.(êÄÚºşÿÿÿÿ
+K
+java:S1481""5Remove this unused "currentCharacter" local variable.(öÄ†¢
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¬¯ş
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ë’äÜ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(İ¿€Ô
