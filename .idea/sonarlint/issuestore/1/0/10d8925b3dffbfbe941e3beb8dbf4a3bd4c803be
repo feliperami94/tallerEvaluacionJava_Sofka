@@ -1,0 +1,6 @@
+
+k
+java:S1104	"PMake load a static final constant or non-public and provide accessors if needed.(É¾š¢üÿÿÿÿ
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(áÏ¸ıÿÿÿÿ8Æ†ø¼†0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ìş ûÿÿÿÿ

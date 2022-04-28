@@ -1,0 +1,24 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åÆ–Æûÿÿÿÿ
+G
+java:S1153"1Directly append the argument of String.valueOf().(Ëº–í
+G
+java:S1153"1Directly append the argument of String.valueOf().(¨…„Ö
+L
+java:S1153!"1Directly append the argument of String.valueOf().(òŸÿÕıÿÿÿÿ
+G
+java:S1153%"1Directly append the argument of String.valueOf().(â¿ƒµ
+G
+java:S1153&"1Directly append the argument of String.valueOf().(í½Å†
+L
+java:S1153'"1Directly append the argument of String.valueOf().(’¥ê¿şÿÿÿÿ
+G
+java:S1153("1Directly append the argument of String.valueOf().(Ó˜ª
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ìş ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ëº–í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨…„Ö
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(òŸÿÕıÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(â¿ƒµ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(í½Å†
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(’¥ê¿şÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ó˜ª

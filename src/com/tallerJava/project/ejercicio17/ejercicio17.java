@@ -16,6 +16,7 @@ public class ejercicio17 {
         electrodomesticArray[8] = new Lavadora(1820.0, "ORANGE", 'R', 75.0, 85.0);
         electrodomesticArray[9] = new Television(47, true, 1550.0, "BLUE", 'F', 42.0);
 
+
         Double sumPriceWashingMachine = 0.0;
         Double sumPriceTelevision = 0.0;
         Double sumPriceElectrodomestic = 0.0;
@@ -37,6 +38,7 @@ public class ejercicio17 {
         System.out.println("La suma de los televisores listados es de: $" + String.valueOf(sumPriceTelevision));
         System.out.println("La suma de los electrodomesticos genéricos listados es de: $" + String.valueOf(sumPriceElectrodomestic));
         System.out.println("El total de los electrodomesticos listados (incluidos TVs y Lavadoras) es de: $" + String.valueOf(sumPriceElectrodomestic + sumPriceWashingMachine + sumPriceTelevision));
+
 
 
 

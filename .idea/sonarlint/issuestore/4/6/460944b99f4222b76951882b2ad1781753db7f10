@@ -1,0 +1,14 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Á„Áøÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ï¥¯ö
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğúÇ
+9
+java:S1659"#Declare "word2" on a separate line.(ü´úƒ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ğ°˜ıÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ııÖŞ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ú¡ôİøÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ìÊÜœ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(º“óñøÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'com.sun.deploy.util.StringUtils'.(Ï¥¯ö

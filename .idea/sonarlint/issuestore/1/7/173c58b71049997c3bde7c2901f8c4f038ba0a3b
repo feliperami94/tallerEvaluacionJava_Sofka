@@ -1,0 +1,18 @@
+
+q
+java:S1192"UDefine a constant instead of duplicating this literal " es mayor de edad?: " 3 times.(‚­õ^8’³‘†0
+z
+java:S1192"_Define a constant instead of duplicating this literal " tiene indice de masa corporal" 3 times.(òì¾¯øÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•øçŠùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öûÎÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òì¾¯øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀµÓ 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ïœåó
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‚­õ^
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ç·Ùê
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ş»Ü’
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(À¸¢øúÿÿÿÿ8š¡®‘†0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(À ¼üÿÿÿÿ8š¡®‘†0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(œœñ«ûÿÿÿÿ8›¡®‘†0
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

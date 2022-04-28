@@ -1,0 +1,10 @@
+
+l
+java:S1104"VMake resolution a static final constant or non-public and provide accessors if needed.(§ãŒ€
+o
+java:S1104	"TMake tdtTuner a static final constant or non-public and provide accessors if needed.( èí§úÿÿÿÿ
+E
+java:S5411'"*Use the primitive boolean expression here.(Ò¦ãÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ìş ûÿÿÿÿ
+\
+java:S1161!":Add the "@Override" annotation above this method signature(•½©¶úÿÿÿÿ8ÀãÍ¿†0

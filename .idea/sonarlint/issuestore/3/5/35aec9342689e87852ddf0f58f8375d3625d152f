@@ -1,0 +1,17 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·…„ò
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š°Åİ8é™‘†0
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÅ³Ç
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üßĞ“øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öûÎÔ
+r	java:S116"QRename this field "HOMBRE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶°êÿÿÿÿÿ8õ˜¦’†0
+h	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¶°êÿÿÿÿÿ
+<	java:S131T""Add a default case to this switch.(øãş•ÿÿÿÿÿ
+B
+java:S1905Œ"&Remove this unnecessary cast to "int".(•ñŠùÿÿÿÿ
+=
+java:S1905"&Remove this unnecessary cast to "int".(Û­µã
+H
+java:S1144g"2Remove this unused private "comprobarSexo" method.(„Úï˜
